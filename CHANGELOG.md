@@ -1,3 +1,13 @@
+### v1.6.0 -> v1.6.1
+
+#### Fixes
+
+ - [`5e09bff`](https://github.com/deis/deis/commit/5e09bff5f7fd061af0ca6a07b2417d213d322517) store: fix shared etcd key defaults
+ - [`8349d06`](https://github.com/deis/deis/commit/8349d06fe8eeee5a0c29fdeced263bc515994b87) router: check if there is certificates to generate
+ - [`5dd03e8`](https://github.com/deis/deis/commit/5dd03e8705d82877ec731cd69df1b77f481921be) contrib/coreos: remove custom clock sync logic
+ - [`7c8c60b`](https://github.com/deis/deis/commit/7c8c60ba71a344c396cb66c54fb0cedd4792065d) client: add requirements.txt to pypi distribution
+ - [`575f68d`](https://github.com/deis/deis/commit/575f68dfe3c4a14be0add9d28bfcaeb7af29047d) store: lower number of placement groups
+
 ### v1.5.2 -> v1.6.0
 
 #### Features
